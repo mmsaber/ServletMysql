@@ -1,0 +1,11 @@
+#task_2 (mysqlParser)
+//Parsing from mysql to JSON using Servlet
+//please use XMLParser First
+1- install mysql
+2- install netbeans or eclipse //I have used netbeans
+3- import the ServletMysql.zip
+/////////////////////////////////////////////////////////////////////
+I have used 2 libraries in this project you don't need to download I have attached it
+
+**mysql-connector-java
+**json-simple-1.1.1
